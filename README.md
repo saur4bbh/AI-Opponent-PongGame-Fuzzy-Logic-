@@ -43,11 +43,9 @@ The paddle moves accordingly.
 
 🚀 How to Run
 
-Clone the repository:
-git clone https://github.com/your-username/your-repo-name.git
+Clone the repository: https://github.com/saur4bbh/AI-Opponent-PongGame-Fuzzy-Logic-
 
-Navigate into the project directory:
-cd your-repo-name
+Navigate into the project directory
 
 Run the main file:
 python main.py (make sure requirement libraries installment is satisfied)
