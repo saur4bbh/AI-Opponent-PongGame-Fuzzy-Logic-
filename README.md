@@ -1,6 +1,7 @@
 🏓 Pong Game AI Opponent using Fuzzy Logic (Mamdani & TSK)
 
 📌 Overview
+
 This project implements an intelligent AI opponent for the classic Pong game using Fuzzy Logic Control Systems. The AI paddle movement is controlled using two different fuzzy inference approaches:
 
 Mamdani Fuzzy Inference System
